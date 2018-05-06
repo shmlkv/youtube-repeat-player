@@ -3,7 +3,7 @@ A react component to play youtube videos with a **feature to play them on repeat
 
 
 ## Watch it being used live
-[Youtueb on Repeat](https://youtube-on-repeat.netlify.com)
+[Youtube on Repeat](https://youtube-on-repeat.netlify.com)
 
 ## Install
 `npm install --save youtube-repeat-player`
